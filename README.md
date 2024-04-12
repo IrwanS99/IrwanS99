@@ -1,6 +1,8 @@
 ### Hi there 👋
 <p align="center">I'm a Full-Stack Developer</p>
 
+[![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/irwansanjaya/)
+
 <!--
 **IrwanS99/IrwanS99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
