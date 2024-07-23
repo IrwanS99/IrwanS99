@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p align="center">I'm a Full-Stack Developer</p>
+Dedicated and results-oriented Flutter developer with a strong background in Computer Science and two years of hands-on experience in mobile app development. Proficient in designing, implementing, testing, and maintaining high-performance Flutter applications for iOS and Android platforms as well as managing applications in the Play Store and App Store app markets. Passionate about always keeping up with the latest industry trends and technologies to provide cutting-edge solutions. Possess strong problem-solving skills and attention to detail, ensuring the delivery of robust and user-friendly applications.
 
 [![LinkedIn](https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png)](https://www.linkedin.com/in/irwansanjaya/)
 
