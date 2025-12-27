@@ -29,7 +29,7 @@ class IrwanSanjaya {
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Statistics
 
 <div align="center">
 
@@ -48,16 +48,6 @@ class IrwanSanjaya {
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrwanS99&theme=tokyonight" height="180em" />
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IrwanS99&theme=tokyonight" height="180em" />
-
-</div>
-
----
-
-## 🔥 Contribution Streak
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=IrwanS99&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 </div>
 
@@ -99,6 +89,16 @@ class IrwanSanjaya {
   - Building: "Production-ready Mobile Apps"
   - Contributing: "Open Source Projects"
 ```
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Irwan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=IrwanS99&theme=tokyo-night&hide_border=true)](https://github.com/IrwanS99)
+
+</div>
 
 ---
 
