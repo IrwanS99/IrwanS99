@@ -21,14 +21,31 @@ Staying current with emerging mobile technologies and contributing to innovative
 
 ## 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=IrwanS99&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IrwanS99&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" height="180"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IrwanS99&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
+[![GitHub Streak](https://nirzak-streak-stats.vercel.app/api?user=IrwanS99&theme=tokyonight&hide_border=true)](https://github.com/IrwanS99)
+
+</div>
+
+<div align="center">
+  
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IrwanS99&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=IrwanS99&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=IrwanS99&theme=tokyonight)
+
+</div>
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=IrwanS99&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=IrwanS99&theme=tokyonight)
+
+</div>
 
 ---
 
@@ -47,12 +64,23 @@ Staying current with emerging mobile technologies and contributing to innovative
 
 ---
 
+## 🏆 GitHub Trophies
+
+<div align="center">
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IrwanS99&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/IrwanS99)
+
+</div>
+
+---
+
 ## 📫 Let's Connect
 
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/irwansanjaya/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/IrwanS99)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white)](https://github.com/IrwanS99)
 
 </div>
 
