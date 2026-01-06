@@ -8,7 +8,7 @@
 
 ## 🚀 About Me
 
-Results-driven **Mobile Developer** with **3+ years** of professional experience crafting high-quality mobile applications for iOS and Android platforms. Specialized in **Flutter development** with a proven track record of successfully publishing applications to both the Play Store and App Store.
+Results-driven **Mobile Developer** with **4+ years** of professional experience crafting high-quality mobile applications for iOS and Android platforms. Specialized in **Flutter development** with a proven track record of successfully publishing applications to both the Play Store and App Store.
 
 ### 💼 Core Expertise
 
